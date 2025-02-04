@@ -15,6 +15,6 @@ This strategy yielded a **400% return over a 4-year period** in Bitcoin data, de
 
 ![image](https://github.com/user-attachments/assets/e59d52e0-3f8f-440d-86d2-c78fd20391e8)
 
-Please refer and download to the python file (EMA backtest.py) and the csv file (Bitcoin Historical Data) to test run the backtest
+Please refer and download the python file (EMA backtest.py) and the csv file (Bitcoin Historical Data) to test run the backtest
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
